@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PlayerFame": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\\\Users\\\\NicoStrebel\\\\source\\\\repos\\\\YBHack19\\\\data"
+    }
+  }
+}
